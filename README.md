@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Proggy&weight=555&pause=1000&color=85A947&background=123524&center=true&vCenter=true&width=435&lines=Welcome+to+Nhat's+Github+Profile!;Open+for+AI%2FDS+colaborations!](https://readme-typing-svg.herokuapp.com?font=Proggy&weight=777&size=27&duration=3000&pause=100&color=85A947&background=12352400&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+Nhat's+Github+Profile!;Open+for+AI%2FDS+colaborations!"/>
+</h1>
+
 ## 🍊 About Me
 ### Hi there 👋!!! Welcome to my Github Profile page! My name is Ngô Hà Anh Thư but I'm more comfortable with people addressing me as Ngô Nhật Anh or Ao.
 ### 🔭 An undergraduate of International Associate Program between Troy University and HUST.
