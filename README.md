@@ -3,7 +3,7 @@
 </h1>
 
 ## 🍊 About Me
-### Hi there 👋!!! Welcome to my Github Profile page! My name is Ngô Hà Anh Thư but I'm more comfortable with people addressing me as Ngô Nhật Anh or Ao.
+### Hi there 👋!!! Welcome to my Github Profile page! My name is Ngô Hà Anh Thư but you can call me by Ao.
 ### 🔭 An undergraduate of International Associate Program between Troy University and HUST.
 ### 🎯 Currently pursuing an Internship in AI/Ml and Data Science. 
 ### I'm eager to have the chance to collaborate with you guys on related projects. Feel free to contact me so we can have further discussion!!!
